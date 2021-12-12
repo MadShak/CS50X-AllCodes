@@ -1,0 +1,5 @@
+edu/harvard/cs50/fiftygram/MainActivity.java
+ edu.harvard.cs50.fiftygram.MainActivity
+ edu.harvard.cs50.fiftygram.MainActivity$1
+edu/harvard/cs50/fiftygram/BuildConfig.java
+ edu.harvard.cs50.fiftygram.BuildConfig

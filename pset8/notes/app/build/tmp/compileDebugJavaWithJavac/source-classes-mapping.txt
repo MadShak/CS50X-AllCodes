@@ -1,0 +1,23 @@
+edu/harvard/cs50/notes/NotesAdapter.java
+ edu.harvard.cs50.notes.NotesAdapter
+ edu.harvard.cs50.notes.NotesAdapter$NoteViewHolder
+ edu.harvard.cs50.notes.NotesAdapter$NoteViewHolder$1
+edu/harvard/cs50/notes/Note.java
+ edu.harvard.cs50.notes.Note
+edu/harvard/cs50/notes/SwipeToDeleteCallback.java
+ edu.harvard.cs50.notes.SwipeToDeleteCallback
+edu/harvard/cs50/notes/NoteActivity.java
+ edu.harvard.cs50.notes.NoteActivity
+ edu.harvard.cs50.notes.NoteActivity$1
+ edu.harvard.cs50.notes.NoteActivity$2
+edu/harvard/cs50/notes/MainActivity.java
+ edu.harvard.cs50.notes.MainActivity
+ edu.harvard.cs50.notes.MainActivity$1
+ edu.harvard.cs50.notes.MainActivity$2
+ edu.harvard.cs50.notes.MainActivity$2$1
+edu/harvard/cs50/notes/NotesDatabase.java
+ edu.harvard.cs50.notes.NotesDatabase
+edu/harvard/cs50/notes/BuildConfig.java
+ edu.harvard.cs50.notes.BuildConfig
+edu/harvard/cs50/notes/NoteDao.java
+ edu.harvard.cs50.notes.NoteDao

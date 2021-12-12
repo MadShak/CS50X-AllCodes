@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pokeball.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\pokeball.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_pokedex_row.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\layout\\pokedex_row.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pokeball_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\pokeball_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pokeball_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\pokeball_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pokeball_foreground.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\pokeball_foreground.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pokeball.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\drawable\\pokeball.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pokeball.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\pokeball.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pokeball_foreground.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\pokeball_foreground.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pokemon.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\layout\\activity_pokemon.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pokeball_foreground.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-hdpi\\pokeball_foreground.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pokeball_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-hdpi\\pokeball_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pokeball_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\pokeball_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pokeball.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-mdpi\\pokeball.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pokeball.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-hdpi\\pokeball.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pokeball_round.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\pokeball_round.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pokeball_foreground.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-mdpi\\pokeball_foreground.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pokeball_foreground.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\pokeball_foreground.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pokeball_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-mdpi\\pokeball_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pokeball.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\pokeball.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\pokedexAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pokeball.png.flat",
+        "source": "D:\\pokedexAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\pokeball.png"
+    }
+]

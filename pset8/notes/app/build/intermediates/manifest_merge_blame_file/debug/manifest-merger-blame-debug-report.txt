@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.harvard.cs50.notes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\notes\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\notes\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\notes\app\src\main\AndroidManifest.xml:5:5-20:19
+12        android:allowBackup="true"
+12-->D:\notes\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\forna\.gradle\caches\transforms-2\files-2.1\80f58724caaf330e74c3000cc6797977\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\notes\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\notes\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\notes\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->D:\notes\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->D:\notes\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="edu.harvard.cs50.notes.NoteActivity" />
+22-->D:\notes\app\src\main\AndroidManifest.xml:12:9-59
+22-->D:\notes\app\src\main\AndroidManifest.xml:12:19-47
+23        <activity android:name="edu.harvard.cs50.notes.MainActivity" >
+23-->D:\notes\app\src\main\AndroidManifest.xml:13:9-19:20
+23-->D:\notes\app\src\main\AndroidManifest.xml:13:19-47
+24            <intent-filter>
+24-->D:\notes\app\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\notes\app\src\main\AndroidManifest.xml:15:17-69
+25-->D:\notes\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\notes\app\src\main\AndroidManifest.xml:17:17-77
+27-->D:\notes\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <service
+31-->[androidx.room:room-runtime:2.1.0] C:\Users\forna\.gradle\caches\transforms-2\files-2.1\6d7cd11850027465120e40f53813cdee\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+32            android:name="androidx.room.MultiInstanceInvalidationService"
+32-->[androidx.room:room-runtime:2.1.0] C:\Users\forna\.gradle\caches\transforms-2\files-2.1\6d7cd11850027465120e40f53813cdee\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+33            android:exported="false" />
+33-->[androidx.room:room-runtime:2.1.0] C:\Users\forna\.gradle\caches\transforms-2\files-2.1\6d7cd11850027465120e40f53813cdee\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+34    </application>
+35
+36</manifest>

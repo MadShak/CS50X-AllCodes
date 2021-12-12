@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:gravity="center">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_view" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="savePhoto"
+        android:text="Save Photo"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Choose photo"
+        android:id="@+id/button_choose"
+        android:onClick="choosePhoto" />
+
+    <Button
+        android:id="@+id/sketch_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="applySketch"
+        android:text="Sketch"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        android:id="@+id/toon_button"
+        android:text="Toon"
+        android:onClick="applyToon" />
+
+    <Button
+        android:id="@+id/sepia_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="applySepia"
+        android:text="Sepia"
+        android:visibility="invisible" />
+
+  </LinearLayout>
+</ScrollView>

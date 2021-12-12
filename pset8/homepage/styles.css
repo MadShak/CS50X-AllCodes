@@ -1,0 +1,23 @@
+#hi {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-emphasis: underline;
+    color: black;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: coral;
+}
+
+li:hover {
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}

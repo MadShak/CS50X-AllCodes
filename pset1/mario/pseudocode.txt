@@ -1,0 +1,4 @@
+Ask user for height;
+If height is invalid, back for task 1;
+Print all answers until the right one;
+Informe the right answer stored;
