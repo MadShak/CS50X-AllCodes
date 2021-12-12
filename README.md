@@ -1,5 +1,5 @@
-## CS50X - All My Codes
+## CS50X
  
-### Including nine problem sets and one final project.
+### All My Codes.
  
 ### https://cs50.harvard.edu/x/2021/
