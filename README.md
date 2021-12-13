@@ -1,6 +1,6 @@
 # Harvard CS50X
 
-## All My Codes.
+## All My Codes
 
 ### Pset0 - Scratch https://scratch.mit.edu/projects/435995747/
  
